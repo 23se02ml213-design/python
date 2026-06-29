@@ -114,6 +114,7 @@ while True:
                 all_subjects.update(stu["subjects"])
             if all_subjects:
                 print("--- Unique Subjects Offered ---")
+                print("all_subject")
                
             else:
                 print("No subjects found.")
