@@ -488,7 +488,7 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-🎥 **Video Demo:** [https://drive.google.com/drive/my-drive]
+🎥 **Video Demo:** [https://drive.google.com/drive/folders/1Y2Z0_LuanysAWJzNsX7qJ-WyTTZeIRLJ]
 
 
 </div>
